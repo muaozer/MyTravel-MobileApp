@@ -43,7 +43,7 @@ When the "My route" page is clicked, favourite locations offer the user the most
 
 <img src="https://github.com/user-attachments/assets/7fa88cf5-f079-4ecf-9e7d-d867c228723a" width="300"/> <img src="https://github.com/user-attachments/assets/8e27524c-0f19-4767-9654-e00debb176ea" width="300"/>
 
-<img src="https://github.com/user-attachments/assets/29dc2537-4edb-4ec6-84d4-806e4a229eca" width="300"/> <img src="https://github.com/user-attachments/assets/a10de34d-7d9a-43c0-9731-865d23b8c6ab" width="300"/>
+<img src="https://github.com/user-attachments/assets/a10de34d-7d9a-43c0-9731-865d23b8c6ab" width="300"/>
 
 
 
