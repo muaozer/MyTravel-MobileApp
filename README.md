@@ -1,16 +1,39 @@
-# gezi_rehberi
+# MyTravel
 
-A new Flutter project.
+Gezmeyi ve yeni yerler görmeyi seven insanlar için tasarlanan mobil uygulama.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+**Yapılanlar**
+Kayıt ol - Giriş yap ekranları UI ve UX kodları.
+Kayıt kullanıcıdan şifrede büyük, küçük karakter rakam ve noktalama isteniyor.
+Firestore entegre çalışıyor. Kimlik doğrulama ve giriş verileri tutuluyor.
+"Keşfet" sayfasından beğenilen görseli ve beğenilen lokasyonu "Rehber" sayfasına yönlendiriyor beğenme sırasına görseller ve lokasyon isimleri listeleniyor.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Yapmak İstenen**
+Kullanıcılar arayüzde gezilebilicek yerleri kendilerine yakından uzağa olucak şekilde görücek. (Gezmek istedikleri lokasyonları beğenebilir, beğenmediklerini es geçe bilir(yapıldı).)
+(Kullanıcının beğendiği lokasyonlar "Rehber" sayfasında gözükür(yapıldı).) Beğenilen yerler yakından uzağa şeklinde "Rehber" sayfasında gözüküyor.
+"Rehber" sayfasından lokasyon görseline tıklanınca lokasyon bilgilerine ulaşılır. Görselleri, Tarihi hikayesi ve konumu aynı zamanda kullanıcı isterse gezdiği yerin tarihini ve hikayesini dinleyebilir.
+"Rotam" sayfasına tıklandığında beğenilen lokasyonlar yakından uzağa kullanıcıya en uygun rotayı sunar.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+# MyTravel
+
+Mobile application designed for people who love travelling and seeing new places.
+
+
+**Finished**
+Registration - Login screens UI and UX codes.
+The registered user is asked for uppercase, lowercase characters, numbers and punctuation marks in the password.
+Firestore works integrated. Authentication and login data is kept.
+It redirects the liked image and the liked location from the "Explore" page to the "Guide" page, images and location names are listed in order of liking.
+
+
+
+**What you want to do**
+Users will see the places that can be visited in the interface in a way that they can see themselves from near to far. (They can like the places they want to visit and skip the ones they don't like (done).
+(The locations that the user likes appear on the "Guide" page (done). Favourite locations appear on the "Guide" page in the form of close to far.
+When the location image is clicked from the "Guide" page, the location information is accessed. Along with the location's visuals, history, story and location, the user can also listen to the history and story of the place they are travelling to.
+When the "My route" page is clicked, favourite locations offer the user the most suitable route from near to far.
