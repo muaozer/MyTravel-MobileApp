@@ -37,3 +37,13 @@ Users will see the places that can be visited in the interface in a way that the
 (The locations that the user likes appear on the "Guide" page (done). Favourite locations appear on the "Guide" page in the form of close to far.
 When the location image is clicked from the "Guide" page, the location information is accessed. Along with the location's visuals, history, story and location, the user can also listen to the history and story of the place they are travelling to.
 When the "My route" page is clicked, favourite locations offer the user the most suitable route from near to far.
+
+
+![Screenshot_1723345846](https://github.com/user-attachments/assets/e1a64a2c-9bd7-44ba-870a-5118b78ce51a) ![Screenshot_1723345853](https://github.com/user-attachments/assets/5d4e3c11-42d1-4e6a-8359-f9e05858466c)
+
+![Screenshot_1723346583](https://github.com/user-attachments/assets/7fa88cf5-f079-4ecf-9e7d-d867c228723a) ![Screenshot_1723346589](https://github.com/user-attachments/assets/8e27524c-0f19-4767-9654-e00debb176ea)
+
+![Screenshot_1723346658](https://github.com/user-attachments/assets/29dc2537-4edb-4ec6-84d4-806e4a229eca) ![Screenshot_1723346817](https://github.com/user-attachments/assets/a10de34d-7d9a-43c0-9731-865d23b8c6ab)
+
+
+
